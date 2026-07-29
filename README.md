@@ -32,7 +32,7 @@ analytics pipeline...
 ![Patient Demographics](dashboard/screenshots/02_patient_demographics.png)
 
 **High Risk Segments — Three-Tier Risk Classification**
-![High Risk Segments](dashboard/screenshots/03_high_risk_segments.png)
+![High Risk Segments](images/High%20Risk%20Segments.png)
 
 --
 
