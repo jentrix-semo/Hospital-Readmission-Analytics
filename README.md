@@ -16,13 +16,6 @@ The project was built to demonstrate the analytical thinking, technical depth, a
 
 ---
 
-## Project Overview
-
-This project delivers a complete end-to-end clinical 
-analytics pipeline...
-
----
-
 ### Dashboard Preview
 
 **Executive Summary — Overall 30-Day Readmission Rate**
