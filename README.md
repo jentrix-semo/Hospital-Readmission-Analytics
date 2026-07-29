@@ -145,6 +145,21 @@ KPI VIEWS (vw_kpi_*)
 
 **6 of 7 hypotheses statistically confirmed.**
 
+## Results at a Glance
+
+| Question | Finding |
+|---|---|
+| Overall 30-day readmission rate | 11.39% |
+| Highest risk age group | [20-30) at 14.31% |
+| Highest risk diagnosis | Supplementary V-codes at 16.24% |
+| Highest risk specialty | Oncology at 20.06% |
+| Highest risk disposition | Rehabilitation Facility at 27.71% |
+| Repeat vs first-time patient gap | 19.76% vs 4.26% (4.64x higher) |
+| High Risk segment rate | 21.82% — nearly double the baseline |
+| A1C untested rate | 11.69% vs 9.95% tested (83% untested) |
+| Gender significance | Not significant (p = 0.428) |
+| Strongest predictor | Encounter history (chi-square = 5,866.86) |
+
 ---
 
 ## Recommendations
