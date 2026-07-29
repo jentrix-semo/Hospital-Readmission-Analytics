@@ -280,7 +280,7 @@ hospital-readmission-analytics/
 
 | Page | Key Visual | Primary Finding |
 |---|---|---|
-| Executive Summary | 4 KPI cards + risk tier bar + donut | Overall rate 11.39%, High Risk 21.82% |
+| Executive Summary | 6 KPI cards + risk tier bar + donut | Overall rate 11.39%, High Risk 21.82% |
 | Diagnosis and Specialty | 2 bar charts + scatter plot | V-codes 16.24%, Oncology 20.06% |
 | Patient Demographics | Matrix + combo chart + 2 cards | Repeat patients 19.76% vs 4.26% |
 | Clinical Utilization | Grouped bar + 2 bar charts + 4 cards | Rehab Facility 27.71%, Emergency 11.98% |
