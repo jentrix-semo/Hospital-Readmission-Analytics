@@ -26,10 +26,10 @@ analytics pipeline...
 ### Dashboard Preview
 
 **Executive Summary — Overall 30-Day Readmission Rate**
-![Executive Summary](dashboard/screenshots/01_executive_summary.png)
+![Executive Summary](images/Executive%20summary.png)
 
 **Patient Demographics — Repeat Patient Risk Analysis**
-![Patient Demographics](dashboard/screenshots/02_patient_demographics.png)
+![Patient Demographics](images/Patient%20Demographics.png)
 
 **High Risk Segments — Three-Tier Risk Classification**
 ![High Risk Segments](images/High%20Risk%20Segments.png)
