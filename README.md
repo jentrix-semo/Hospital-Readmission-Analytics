@@ -173,7 +173,9 @@ hospital-readmission-analytics/
 ├── project_brief.md                   ← Analytical questions and project scope
 │
 ├── notebooks/
-│   ├── 00_setup.ipynb                 ← Environment setup, .env, project structure
+│   ├── 00_setup.ipynb                 ← Environment setup, .env, project structure. > **Note:** The `.env` file is excluded from this repository
+> via `.gitignore` to protect credentials. Create your own
+> `.env` file in the project root using the template above.
 │   ├── 01_data_profiling.ipynb        ← Structure, sentinel detection, cardinality, class imbalance
 │   ├── 02_data_cleaning.ipynb         ← Sentinel replacement, deduplication, missing values,
 │   │                                     dtype correction, text standardization, invalid value
